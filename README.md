@@ -1,4 +1,4 @@
 # MAteAcademy1
 First rep for MA course
-- [Preview](https://your-name.github.io/your-repo/)
-- [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://Lun4trick.github.io/MAteAcademy1/)
+- [Pull Request](https://github.com/Lun4trick/MAteAcademy1/pull/1/files)
