@@ -1,2 +1,2 @@
-# MAteAcademy1
+# MateAcademy1
 First rep for MA course
